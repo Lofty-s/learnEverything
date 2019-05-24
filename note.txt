@@ -1,0 +1,15 @@
+github常用命令：
+	git add filename :将文件提交至暂存区
+	git rm filename:讲暂存区的文件删除
+	
+	git commit -m '备注'：将暂存区文件提交至服务端
+	
+	git status：获取暂存区状态
+
+	删除仓库中的文件：
+		git rm filename
+		git commit -m '备注'
+	
+	创建远程仓库：
+		git clone 仓库地址
+		
